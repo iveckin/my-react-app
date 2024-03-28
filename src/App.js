@@ -1,24 +1,41 @@
-import logo from './logo.svg';
-import './App.css';
+// App.js
+import React, { useState, useEffect } from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import MovieList from './components/MovieList';
+import MovieDetail from './components/MovieDetail';
+import axios from 'axios';
+import Header from "./components/Header"
+import SearchContainer from './components/SearchContainer';
+
 
 function App() {
+  const [movies, setMovies] = useState([]);
+
+  useEffect(() => {
+    async function fetchMovies() {
+      try {
+        const response = await axios.get('/movies.json'); // Adjust the path as needed
+        setMovies(response.data);
+      } catch (error) {
+        console.error('Error fetching movies:', error);
+      }
+    }
+
+    fetchMovies();
+  }, []);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+
+    <Router>
+      <div className='overlay'></div>
+      <Header/>
+      
+      <Routes>
+        <Route path="/" element={<MovieList movies={movies} />} />
+        <Route path="/movies/:id" element={<MovieDetail movies={movies} />} />
+      </Routes>
+    
+    </Router>
   );
 }
 
