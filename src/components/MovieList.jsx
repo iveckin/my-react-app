@@ -6,7 +6,6 @@ import '../css/MovieList.css'; // Import the CSS file
 function MovieList() {
   return (
     <div className='black'>
-      <h2>List of Movies</h2>
       <ul className="movie-list">
         {movieData.map(movie => (
           <li key={movie.id} className="movie-list-item">

@@ -1,5 +1,5 @@
-// Assuming your JSON file is named 'movies.json'
 import React, { useState } from 'react';
+import { Link } from 'react-router-dom'; // Import Link from React Router
 import '../css/SearchContainer.css'; // Import the CSS file
 import moviesData from './movies.json'; // Import the JSON file
 
@@ -8,12 +8,17 @@ const SearchContainer = ({ onSearch }) => {
   const [searchResults, setSearchResults] = useState([]);
 
   const handleInputChange = (event) => {
-    setSearchQuery(event.target.value);
-    // Filter the data based on search query
-    const filteredData = moviesData.filter((item) =>
-      item.title.toLowerCase().includes(event.target.value.toLowerCase())
-    );
-    setSearchResults(filteredData);
+    const query = event.target.value.toLowerCase();
+    setSearchQuery(query);
+    
+    if (query === '') {
+      setSearchResults([]);
+    } else {
+      const filteredData = moviesData.filter((item) =>
+        item.title.toLowerCase().includes(query)
+      );
+      setSearchResults(filteredData);
+    }
   };
 
   const handleSearch = () => {
@@ -22,6 +27,8 @@ const SearchContainer = ({ onSearch }) => {
 
   return (
     <div className="search-container-wrapper">
+      <h1><span>kukni</span>.si</h1>
+      <h2>Čo si chceš pozrieť dnes?</h2>
       <div className="search-container">
         <input
           type="text"
@@ -30,18 +37,19 @@ const SearchContainer = ({ onSearch }) => {
           value={searchQuery}
           onChange={handleInputChange}
         />
-        <button className="search-button" onClick={handleSearch}>
-          Search
-        </button>
       </div>
       <div className="search-results">
         {searchResults.map((item) => (
-          <div key={item.id} className="search-result-item">
-            <img src={item.poster} alt={item.title} />
-            <h3>{item.title}</h3>
-            <p>{item.year}</p>
-            <p>{item.duration} minutes</p>
-          </div>
+          <Link key={item.id} to={`/movies/${item.id}`} className="search-result-item">
+            <div className="search-result-item-content">
+              <img src={item.poster} alt={item.title} />
+              <div>
+                <h3>{item.title}</h3>
+                <p>{item.year}</p>
+                <p>{item.duration} minutes</p>
+              </div>
+            </div>
+          </Link>
         ))}
       </div>
     </div>
