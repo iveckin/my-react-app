@@ -11,6 +11,10 @@ import SearchContainer from './components/SearchContainer';
 function App() {
   const [movies, setMovies] = useState([]);
 
+  const handleSearch = (searchQuery) => {
+    console.log('Performing search with query:', searchQuery);
+  };
+
   useEffect(() => {
     async function fetchMovies() {
       try {
@@ -29,7 +33,7 @@ function App() {
     <Router>
       <div className='overlay'></div>
       <Header/>
-      
+      <SearchContainer onSearch={handleSearch} />
       <Routes>
         <Route path="/" element={<MovieList movies={movies} />} />
         <Route path="/movies/:id" element={<MovieDetail movies={movies} />} />

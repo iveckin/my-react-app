@@ -14,7 +14,6 @@ function MovieList() {
               <img src={movie.poster} alt={movie.title} className="movie-image" />
             </Link>
             <h3 className="movie-title">{movie.title}</h3>
-            <p className="movie-description">{movie.descriptions[0]}</p>
             {/* Display other movie information as needed */}
           </li>
         ))}
