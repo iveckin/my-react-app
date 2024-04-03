@@ -1,73 +1,73 @@
-/* MovieList.css */
 .black {
-  background-color: black;
-  width: 100%;
-  height: 700px;
+  background-color: #000;
+  color: #fff;
+  padding: 20px;
 }
 
 .movie-list {
-    list-style: none;
-    padding: 0;
-    display: flex;
-    flex-wrap: wrap;
-    margin: 00px 100px;
-    background-color: black;
-  }
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
 
-  h2 {
-    margin: 100px 100px;
-  }
+.movie-list-item {
+  width: calc(15% - 20px); /* Adjust the width as per your layout */
+  margin: 10px;
+  background-color: #222;
+  border-radius: 10px;
+  overflow: hidden;
+  position: relative;
+  border: 2px solid transparent;
+}
 
+.movie-rating {
+  position: absolute;
+  top: 0px; /* Adjust as needed to position the rating box */
+  right: 0px; /* Adjust as needed to position the rating box */
+  background-color: rgba(0, 0, 0, 0.7);
+  color: #fff;
+  padding: 5px 10px;
+  
+  z-index: 2; /* Ensure the rating box is above the image */
+}
 
-  .movie-list-item {
-    margin-top: 100px;
-    margin-right: 20px;
-    margin-bottom: 20px;
-    border-radius: 8px;
-    overflow: hidden;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s ease;
-  }
-  
-  .movie-list-item:hover {
-    transform: translateY(-5px);
-  }
-  
-  .movie-image {
-    width: 200px;
-    height: 300px;
-    object-fit:fill;
-    border-radius: 8px 8px 0 0; /* Rounded corners only on top */
-  }
-  
-  .movie-details {
-    padding: 15px;
-    background-color: #f8f9fa;
-  }
-  
-  .movie-title {
-    margin-top: 0;
-    margin-bottom: 10px;
-    font-size: 15px;
-    font-weight: 100;
-    text-align: center;
-  }
-  
-  .movie-description {
-    margin: 0;
-    font-size: 14px;
-    color: #6c757d;
-  }
-  
-  @media (max-width: 768px) {
-    .movie-list-item {
-      width: calc(50% - 20px); /* Two columns on smaller screens */
-    }
-  }
-  
-  @media (max-width: 576px) {
-    .movie-list-item {
-      width: calc(100% - 20px); /* Full width on extra small screens */
-    }
-  }
-  
+.rating-red {
+  background-color: rgb(192, 0, 0);
+}
+
+.rating-blue {
+  background-color: rgb(98, 145, 255);
+}
+
+.movie-image-container {
+  position: relative; /* Necessary for positioning the rating box */
+}
+
+.movie-image {
+  width: 100%;
+  height: auto;
+  border-radius: 10px 10px 0 0;
+}
+
+.movie-title {
+  padding: 10px;
+  margin: 0;
+  font-size: 18px;
+  text-align: center;
+  overflow: hidden;
+  white-space: nowrap; /* Prevent text from wrapping */
+  text-overflow: ellipsis;
+}
+
+h3.movie-title {
+  font-size: 15px;
+}
+
+.movie-list-item.glow-red {
+  border-color: rgb(192, 0, 0);
+}
+
+.movie-list-item.glow-blue {
+  border-color:rgb(98, 145, 255);
+}

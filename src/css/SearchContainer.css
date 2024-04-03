@@ -13,6 +13,7 @@
 
 h1,h2 {
   margin: 0;
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, 1); /* Adjust the offset (-5px) to move the text up */
 }
 
 h1 {
@@ -49,18 +50,31 @@ h1 span {
 
 .search-results {
   position: absolute;
-  top: calc(50%); /* Place results below search bar */
-  left: 0;
+  top: 73%; /* Position the results just below the search bar */
+  left: 40%; /* Align with the left edge of the search bar */
   z-index: 1;
   width: 100%;
   padding: 10px;
   border-radius: 5px;
+  background-color: rgba(0, 0, 0, 0.8); /* Example background color */
+  width: 300px;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6); /* Adjust the opacity here */
+  z-index: -999; /* Ensure the overlay stays behind the video */
 }
 
 .search-result-item {
   display: flex;
   align-items: center;
   margin-bottom: 10px;
+  width: 300px;
 }
 
 .search-result-item img {

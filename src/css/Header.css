@@ -20,6 +20,17 @@
   margin: 0 10px;
 }
 
+.nav a.logo {
+  position: relative;
+  left: -500px;
+  
+}
+
+.nav a.logo span{
+  color: yellow;
+
+}
+
 /* Navigation links */
 .nav a {
   color: #fff;
