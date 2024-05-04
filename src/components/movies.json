@@ -1,68 +1,830 @@
 [
 {
-    "id": 2294,
-    "title": "Vykoupení z věznice Shawshank",
-    "year": 1994,
-    "duration": 142,
+    "id": 535121,
+    "title": "Na špatné straně",
+    "year": 2018,
+    "duration": 159,
     "descriptions": [
-        "Mladý bankéř Andy Dufresne (Tim Robbins) je v roce 1947 odsouzen za vraždu své ženy a jejího milence. Přesto, že tento čin popírá, čeká na něj dvojnásobný doživotní trest v obávané věznici Shawshank. Andy se snaží přizpůsobit vězeňskému životu a po krušných začátcích se sblíží s Redem (Morgan Freeman), jenž si tu odpykává svůj doživotní trest už dvacet let. Sílu, jak přežít zdejší peklo, Andy nachází v tajném snu a skryté naději na svobodu...(Magic Box)",
-        "Andy Dufresne (Tim Robbins) je mladý úspešný bankár. Jeho život sa ale drasticky zmení, keď je krivo obvinený a usvedčený z vraždy svojej ženy a jej milenca. A tak putuje na dva doživotné tresty do väznice Shawshank. Všetky príkoria Andy prežíva mlčky, s tichým úsmevom, modrinami na tvári a s pocitom neviny v duši. Po nejakej dobe sa začne kontaktovať s Redom (Morgan Freeman) a jeho kamarátmi. Andy svojim prístupom zmení život vo väznici, pretože v jeho vnútri horí plameň najsilnejší - viera a nádej.(Johnny)"
+        "Otupělý policejní veterán Ridgeman (Mel Gibson) a jeho náladový mladší kolega Anthony (Vince Vaughn) jsou suspendováni ze služby poté, co do médií unikne videozáznam jejich svérázných metod. Bez prostředků a velkých šancí se oba zatrpklí vojáci vydají do kriminálního podsvětí, aby učinili spravedlnosti zadost. Mezitím je v jiné části města propuštěn z vězení mladý zločinec Henry Jones a zjišťuje, že jeho matce a postiženému bratrovi hrozí vystěhování. Ve snaze najít způsob, jak jim pomoci, se obrátí na kamaráda z dětství jménem Biscuit, který ho představí nelítostnému kriminálnímu bossovi, jehož ambiciózní plány jej postaví do přímého konfliktu s oběma policejními odpadlíky.(HBO Europe)"
     ],
     "genres": [
+        "Krimi",
         "Drama",
-        "Krimi"
+        "Thriller"
     ],
     "type": "film",
-    "url": "https://www.csfd.cz/film/2294/prehled/",
+    "url": "https://www.csfd.cz/film/535121/prehled/",
+    "origins": [
+        "USA",
+        "Kanada"
+    ],
+    "colorRating": "good",
+    "rating": 72,
+    "ratingCount": 7480,
+    "titlesOther": [
+        {
+            "country": "USA",
+            "title": "Dragged Across Concrete"
+        },
+        {
+            "country": "Kanada",
+            "title": "Dragged Across Concrete"
+        },
+        {
+            "country": "Slovensko",
+            "title": "Na zlej strane"
+        },
+        {
+            "country": "Velká Británie",
+            "title": "Dragged Across Concrete"
+        },
+        {
+            "country": "Austrálie",
+            "title": "Dragged Across Concrete"
+        }
+    ],
+    "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/163/579/163579352_bf8737.jpg",
+    "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/163/416/163416559_60bcbb.jpg",
+    "trivia": [
+        "Počas rozhovorov (čas 00:24:30 - 00:36:35) medzi Brettom (Mel Gibson), Anthonym (Vince Vaughn) a Calvertom (Don Johnson) ich odznaky, ktoré hodili na stôl, menia pozíciu medzi jednotlivými scénami.(BOURQUE)",
+        "Když Henry (Tory Kittles) se svým mladším bratrem Ethanem (Myles Truitt) hrají na konzoly PS4 fiktivní hru „Shotgun Safari“, nemají ani zapnuté joysticky.(SeBig)",
+        "Děj filmu se odehrává během necelého roku.(noelcoward73)"
+    ],
+    "creators": {
+        "directors": [
+            {
+                "id": 87470,
+                "name": "S. Craig Zahler",
+                "url": "https://www.csfd.cz/tvurce/87470-s-craig-zahler/"
+            }
+        ],
+        "writers": [
+            {
+                "id": 87470,
+                "name": "S. Craig Zahler",
+                "url": "https://www.csfd.cz/tvurce/87470-s-craig-zahler/"
+            }
+        ],
+        "cinematography": [
+            {
+                "id": 190956,
+                "name": "Benji Bakshi",
+                "url": "https://www.csfd.cz/tvurce/190956-benji-bakshi/"
+            }
+        ],
+        "music": [
+            {
+                "id": 203209,
+                "name": "Jeff Herriott",
+                "url": "https://www.csfd.cz/tvurce/203209-jeff-herriott/"
+            },
+            {
+                "id": 87470,
+                "name": "S. Craig Zahler",
+                "url": "https://www.csfd.cz/tvurce/87470-s-craig-zahler/"
+            }
+        ],
+        "actors": [
+            {
+                "id": 1,
+                "name": "Mel Gibson",
+                "url": "https://www.csfd.cz/tvurce/1-mel-gibson/"
+            },
+            {
+                "id": 2012,
+                "name": "Vince Vaughn",
+                "url": "https://www.csfd.cz/tvurce/2012-vince-vaughn/"
+            },
+            {
+                "id": 25206,
+                "name": "Tory Kittles",
+                "url": "https://www.csfd.cz/tvurce/25206-tory-kittles/"
+            },
+            {
+                "id": 11486,
+                "name": "Michael Jai White",
+                "url": "https://www.csfd.cz/tvurce/11486-michael-jai-white/"
+            },
+            {
+                "id": 4308,
+                "name": "Thomas Kretschmann",
+                "url": "https://www.csfd.cz/tvurce/4308-thomas-kretschmann/"
+            },
+            {
+                "id": 25684,
+                "name": "Jennifer Carpenter",
+                "url": "https://www.csfd.cz/tvurce/25684-jennifer-carpenter/"
+            },
+            {
+                "id": 22637,
+                "name": "Laurie Holden",
+                "url": "https://www.csfd.cz/tvurce/22637-laurie-holden/"
+            },
+            {
+                "id": 426,
+                "name": "Don Johnson",
+                "url": "https://www.csfd.cz/tvurce/426-don-johnson/"
+            },
+            {
+                "id": 2567,
+                "name": "Udo Kier",
+                "url": "https://www.csfd.cz/tvurce/2567-udo-kier/"
+            },
+            {
+                "id": 56769,
+                "name": "Fred Melamed",
+                "url": "https://www.csfd.cz/tvurce/56769-fred-melamed/"
+            },
+            {
+                "id": 409531,
+                "name": "Justine Warrington",
+                "url": "https://www.csfd.cz/tvurce/409531-justine-warrington/"
+            },
+            {
+                "id": 97284,
+                "name": "Matthew MacCaull",
+                "url": "https://www.csfd.cz/tvurce/97284-matthew-maccaull/"
+            },
+            {
+                "id": 225816,
+                "name": "Primo Allon",
+                "url": "https://www.csfd.cz/tvurce/225816-primo-allon/"
+            },
+            {
+                "id": 148124,
+                "name": "Jordyn Ashley Olson",
+                "url": "https://www.csfd.cz/tvurce/148124-jordyn-ashley-olson/"
+            },
+            {
+                "id": 375392,
+                "name": "Myles Truitt",
+                "url": "https://www.csfd.cz/tvurce/375392-myles-truitt/"
+            },
+            {
+                "id": 12372,
+                "name": "Vanessa Bell Calloway",
+                "url": "https://www.csfd.cz/tvurce/12372-vanessa-bell-calloway/"
+            },
+            {
+                "id": 105243,
+                "name": "Tattiawna Jones",
+                "url": "https://www.csfd.cz/tvurce/105243-tattiawna-jones/"
+            },
+            {
+                "id": 240405,
+                "name": "Andrew Dunbar",
+                "url": "https://www.csfd.cz/tvurce/240405-andrew-dunbar/"
+            },
+            {
+                "id": 49500,
+                "name": "Noel Gugliemi",
+                "url": "https://www.csfd.cz/tvurce/49500-noel-gugliemi/"
+            },
+            {
+                "id": 226779,
+                "name": "Tristan Jensen",
+                "url": "https://www.csfd.cz/tvurce/226779-tristan-jensen/"
+            },
+            {
+                "id": 187951,
+                "name": "Adam Tsekhman",
+                "url": "https://www.csfd.cz/tvurce/187951-adam-tsekhman/"
+            },
+            {
+                "id": 284068,
+                "name": "Trezzo Mahoro",
+                "url": "https://www.csfd.cz/tvurce/284068-trezzo-mahoro/"
+            },
+            {
+                "id": 458083,
+                "name": "Dalias Blake",
+                "url": "https://www.csfd.cz/tvurce/458083-dalias-blake/"
+            },
+            {
+                "id": 227188,
+                "name": "Giacomo Baessato",
+                "url": "https://www.csfd.cz/tvurce/227188-giacomo-baessato/"
+            },
+            {
+                "id": 437405,
+                "name": "Jenn Griffin",
+                "url": "https://www.csfd.cz/tvurce/437405-jenn-griffin/"
+            },
+            {
+                "id": 432071,
+                "name": "Cardi Wong",
+                "url": "https://www.csfd.cz/tvurce/432071-cardi-wong/"
+            },
+            {
+                "id": 465337,
+                "name": "Paul Rogic",
+                "url": "https://www.csfd.cz/tvurce/465337-paul-rogic/"
+            },
+            {
+                "id": 76088,
+                "name": "David Quinlan",
+                "url": "https://www.csfd.cz/tvurce/76088-david-quinlan/"
+            },
+            {
+                "id": 446732,
+                "name": "Jay Hindle",
+                "url": "https://www.csfd.cz/tvurce/446732-jay-hindle/"
+            },
+            {
+                "id": 601169,
+                "name": "Clare Filipow",
+                "url": "https://www.csfd.cz/tvurce/601169-clare-filipow/"
+            },
+            {
+                "id": 638625,
+                "name": "Liannet Borrego",
+                "url": "https://www.csfd.cz/tvurce/638625-liannet-borrego/"
+            },
+            {
+                "id": 739109,
+                "name": "Andres Soto",
+                "url": "https://www.csfd.cz/tvurce/739109-andres-soto/"
+            },
+            {
+                "id": 757076,
+                "name": "Matt Kennedy",
+                "url": "https://www.csfd.cz/tvurce/757076-matt-kennedy/"
+            }
+        ],
+        "basedOn": [],
+        "producers": [
+            {
+                "id": 320006,
+                "name": "Sefton Fincham",
+                "url": "https://www.csfd.cz/tvurce/320006-sefton-fincham/"
+            },
+            {
+                "id": 77451,
+                "name": "Jack Heller",
+                "url": "https://www.csfd.cz/tvurce/77451-jack-heller/"
+            },
+            {
+                "id": 213237,
+                "name": "Keith Kjarval",
+                "url": "https://www.csfd.cz/tvurce/213237-keith-kjarval/"
+            },
+            {
+                "id": 243221,
+                "name": "Dallas Sonnier",
+                "url": "https://www.csfd.cz/tvurce/243221-dallas-sonnier/"
+            }
+        ],
+        "filmEditing": [
+            {
+                "id": 262406,
+                "name": "Greg D'Auria",
+                "url": "https://www.csfd.cz/tvurce/262406-greg-d-auria/"
+            }
+        ],
+        "costumeDesign": [
+            {
+                "id": 260746,
+                "name": "Tanya Lipke",
+                "url": "https://www.csfd.cz/tvurce/260746-tanya-lipke/"
+            }
+        ],
+        "productionDesign": [
+            {
+                "id": 290584,
+                "name": "Brian Davie",
+                "url": "https://www.csfd.cz/tvurce/290584-brian-davie/"
+            }
+        ]
+    },
+    "vod": [
+        {
+            "title": "Apple TV+",
+            "url": "https://tv.apple.com/cz/movie/dragged-across-concrete/umc.cmc.34ihj6x6alpeso7j7lpvamjfb"
+        },
+        {
+            "title": "Voyo",
+            "url": "https://voyo.nova.cz/titul/4604-na-spatne-strane"
+        },
+        {
+            "title": "KVIFF.TV",
+            "url": "https://kviff.tv/katalog/na-spatne-strane"
+        },
+        {
+            "title": "FilmBox+",
+            "url": "https://www.filmboxlive.com/cz/video/na-spatne-strane/a9fb19fd-0e24-4eba-b714-ae0b56dfa016"
+        },
+        {
+            "title": "DVD",
+            "url": "https://www.martinus.cz/?uItem=619213"
+        }
+    ],
+    "tags": [
+        "policie",
+        "zbraně",
+        "město",
+        "zloděj",
+        "podsvětí (svět zločinu)",
+        "přepadení",
+        "sledování",
+        "rukojmí",
+        "banka"
+    ],
+    "premieres": [
+        {
+            "country": "Česko",
+            "format": "Na DVD",
+            "date": "07.08.2019",
+            "company": "Magic Box"
+        },
+        {
+            "country": "Česko",
+            "format": "Na Blu-ray",
+            "date": "07.08.2019",
+            "company": "Magic Box"
+        },
+        {
+            "country": "USA",
+            "format": "V kinech",
+            "date": "22.03.2019",
+            "company": "Lionsgate US"
+        }
+    ],
+    "related": [],
+    "similar": []
+},
+{
+    "id": 6644,
+    "title": "Hon na ponorku",
+    "year": 1990,
+    "duration": 130,
+    "descriptions": [
+        "Film režiséra Johna McTiernana, natočený podle bestselleru Toma Clancyho, je příběhem mužů, v jejichž rukou leží odpovědnost za soudný den. Zbrusu nová, supermoderní jaderná sovětská ponorka míří k pobřeží USA. Jejím velitelem je kapitán Marko Ramius (Sean Connery). Americká vláda se obává, že ponorka \"Rudý říjen\" zaútočí. Analytik CIA (Alec Baldwin) je jiného názoru. Myslí si, že kapitán Ramius chce emigrovat. Má však jen několik hodin, aby ho našel a svůj názor dokázal. Sovětské námořní a vzdušné síly po ponorce totiž pátrají také. Hon na ponorku začíná.(HBO GO)"
+    ],
+    "genres": [
+        "Akční",
+        "Dobrodružný",
+        "Thriller"
+    ],
+    "type": "film",
+    "url": "https://www.csfd.cz/film/6644/prehled/",
     "origins": [
         "USA"
     ],
-    "colorRating": "bad",
-    "rating": 95,
-    "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/162/505/162505167_735db9.jpg"
+    "colorRating": "good",
+    "rating": 81,
+    "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/164/947/164947037_d30716.jpg"
 },
 {
-    "id": 10135,
-    "title": "Forrest Gump",
-    "year": 1994,
-    "duration": 142,
+    "id": 477325,
+    "title": "Milovník po přechodu",
+    "year": 2017,
+    "duration": 115,
     "descriptions": [
-        "Poněkud prostoduchý Forrest Gump, vyzbrojen užitečnými radami své matky, se vydává na pouť životem, který mu připraví nejedno překvapení. Mnoho hořkých, ale také nádherných chvil...Mladý muž jménem Forrest Gump sedí na zastávce autobusu a každému, kdo si přisedne, vypráví o svém životě. Poněkud jednoduchý chlapec se narodil v Alabamě, kde žil jen s matkou, která mu dala mnoho dobrých rad do života. Především tu, aby si nikdy nenechal od nikoho namluvit, že je jiný než ostatní. Dostala ho dokonce i do normální školy, přestože jí doporučovali zvláštní, vzhledem k jeho nízkému IQ. Forrest, terč zlomyslných vtípků a krutých žertů svých kamarádů, si tam najde přítelkyni na celý život: Jenny je půvabná blonďatá holčička, kterou zneužívá otec, a tak ji dají do výchovy babičce. Oba se stanou nerozlučnými přáteli. Jenny Forrestovi dá další cennou radu do života: když budeš mít problém, utíkej. A tak Forrest proutíká školou, pak i střední školou a nakonec vysokou, kde se osvědčí jako nejrychlejší hráč amerického fotbalu. Po svém prožívá i velké události v amerických dějinách, třeba přijetí dvou prvních černých studentů na univerzitu nebo setkání s prezidentem Kennedym... Forrest se na vše dívá svýma naivníma očima, aniž by věci zvažoval do důsledků. Řídí se upřímným citem, jako když stále a opakovaně „zachraňuje“ Jenny, jakmile se mu zdá, že jí někdo ubližuje. Když získá diplom, dá se naverbovat do armády. Doslechne se, že Jenny vyhodili ze školy kvůli nestoudným fotkám a že se pokouší v Memphisu prosadit jako zpěvačka. Navštíví ji a znovu nešikovně „zachraňuje“. Pak je poslán do Vietnamu. Ani hrůzy války tak docela nechápe, i když se při jednom útoku projde dokonalým peklem. Je zabit jeho zatím jediný přítel, černoch Bubba. Forrest, kterého chtěl Bubba přibrat jako partnera do své firmy, je zdrcený. Přesto zachrání několik dalších vojáků včetně poručíka Dana Taylora, který mu ale není pranic vděčný: jakožto člen rodiny, v níž celé generace mužů umíraly ve válkách, si přeje zemřít po boku svých mužů. A on navíc přijde o obě nohy. Zraněn je ale i Forrest a vrací se domů. Ještě ve Vietnamu v nemocnici se mu vrátí dopisy, které pravidelně psal Jenny a jejichž adresátka nebyla zastižena... Po návratu domů mu prezident Johnson udělí medaili a při prohlídce Washingtonu se přimíchá do davu protestujících proti válce. Je vyzván, aby pohovořil o Vietnamu, nejde ale zvuk. Přesto ho tisícihlavý dav zdraví jako hrdinu. Mezi přihlížejícími je i Jenny, nyní horlivá aktivistka protiválečného hnutí Černí panteři. Shledání Forresta s jeho velkou a jedinou láskou je dojemné. Prochodí spolu celou noc a povídají si. Forrest nechce, aby Jenny opět odjela, ale ta se chystá do Kalifornie. Forrest zůstává zase sám...(TV Prima)"
+        "Coby neodolatelný seladon městských bazénů měl Maximo (Eugenio Derbez) jediný cíl – klofnout bohatou starší dámu, nechat se vyživovat a vést sladký život. Klaplo to dokonale. Každá zlatá žíla ale někdy vyschne. Vlastní datum vydání právě zařadilo Maxima do kategorie lenivých veteránů, když se jeho velmi stará žena spustí s velmi mladým prodejcem aut a podvedeného Maxima vykopne na ulici. Ze zlaté klece se stěhuje k sestře do obyčejného bytu a ocitá se ve světě lidí, kteří pracují, nakupují, sami si vaří a provádějí další nepředstavitelné věci. Tudy ale cesta nevede. Ještěže existují děti a ty mají spolužačky a ty zase mají starou bohatou babičku. Svět by přecijen mohl být zase spravedlivý a další boj o pohodlný život může začít. Povede se Maximovi oprášit své zašlé umění svůdce a obnoví slávu svých žlutých plavek? Předá tajemství milovníka svému malému synovci?(Bontonfilm)"
     ],
     "genres": [
-        "Drama",
         "Komedie",
-        "Romantický"
+        "Drama"
     ],
     "type": "film",
-    "url": "https://www.csfd.cz/film/10135/prehled/",
+    "url": "https://www.csfd.cz/film/477325/prehled/",
+    "origins": [
+        "USA"
+    ],
+    "colorRating": "average",
+    "rating": 60,
+    "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/161/852/161852378_8ad429.jpg"
+},
+{
+    "id": 231978,
+    "title": "96 hodin",
+    "year": 2008,
+    "duration": 89,
+    "descriptions": [
+        "Bývalý špión Bryan (Liam Neeson) povolí své sedmnáctileté dceři Kim (Maggie Grace) výlet do Paříže pouze pod podmínkou, že se mu bude pravidelně hlásit. Při jednom takovém telefonátu se ale stává svědkem jejího únosu. Nečeká na nic a vezme spravedlnost do vlastních rukou...(Magic Box)",
+        "Bryan (Liam Neeson) nepatří k tatínkům, kteří by byli přísní, ale rozhodně patří k zastáncům hesla, že opatrnosti není nikdy nazbyt. Proto taky není moc nadšený z toho, že má jeho dcera Kim (Maggie Grace) jet s kamarádkou na pár týdnů do Paříže. Bryan je nejdříve proti, ale Kim ví co na tatínka platí. Takže jí to nakonec dovolí s podmínkou, že se bude pravidelně hlásit. Při jednom rutinním hlášení Kim vidí jak její kamarádku unáší banda obchodníků s bílým masem a těsně před tím než vezmou i ji celou situaci vylíčí tatínkovi, kterého má právě na telefonu. Což je dobře, protože Bryan není jen tak obyčejný tatínek, je to bývalý špion, který je zvyklý jít si za svým a dostat to co chce. A svou dceru chce zpátky víc než cokoliv jiného. Pouští se tedy po stopách podivnými uličkami Paříže a utahuje únoscům příslovečnou smyčku kolem krku. Poslední věcí na kterou tihle lidi pomyslí než naposledy vydechnou bude, že asi tentokrát udělali chybu. Velkou chybu.(3DD!3)",
+        "Dospievajúca dcéra (Maggie Graceová) bývalého agenta tajnej služby, teraz osobného strážcu (Liam Neeson), cestuje s kamarátkou do Paríža. Hneď v prvý deň sú obe unesené albánskymi obchodníkmi s bielym mäsom. Otec, ktorý vie, že miestna polícia mu nepomôže, vďaka nenápadným indíciám okamžite vyráža do Francúzska po stopách surových zločincov. Nájsť svoju dcéru. Za každú cenu. Niekto to bude ľutovať. On nie.(tronka)"
+    ],
+    "genres": [
+        "Akční",
+        "Krimi",
+        "Thriller",
+        "Drama"
+    ],
+    "type": "film",
+    "url": "https://www.csfd.cz/film/231978/prehled/",
+    "origins": [
+        "Francie",
+        "USA",
+        "Velká Británie"
+    ],
+    "colorRating": "good",
+    "rating": 85,
+    "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/053/53546_c6b93c.jpg"
+},
+{
+    "id": 2671,
+    "title": "Sedm",
+    "year": 1995,
+    "duration": 127,
+    "descriptions": [
+        "Dva policisté (Brad Pitt a Morgan Freeman) jsou na stopě geniálního vraha, zodpovědného za sérii děsivých vražd, jejichž oběti spojuje sedm smrtelných hříchů. V jedné z rolí tohoto kvalitního trhilleru, zasazeného do temného města nasáklého bolestí a zkázou, uvidíte také Gwyneth Paltrow. David Fincher (Klub rváčů, Zodiac, Podivuhodný případ Benjamina Buttona) s dokonalou znalostí našich nejhlubších obav pevně svírá otěže akce – fyzické, psychické i spirituální – neodvratně směřující k rozuzlení, které do hloubi otřese i tou nejzatvrzelejší duší.(Magic Box)"
+    ],
+    "genres": [
+        "Thriller",
+        "Krimi",
+        "Mysteriózní",
+        "Psychologický",
+        "Drama"
+    ],
+    "type": "film",
+    "url": "https://www.csfd.cz/film/2671/prehled/",
     "origins": [
         "USA"
     ],
     "colorRating": "good",
-    "rating": 94,
-    "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/158/988/158988468_acc7b5.jpg"
+    "rating": 92,
+    "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/159/256/159256875_01354b.jpg"
 },
 {
-    "id": 2292,
-    "title": "Zelená míle",
-    "year": 1999,
-    "duration": 188,
+    "id": 2982,
+    "title": "Přelet nad kukaččím hnízdem",
+    "year": 1975,
+    "duration": 133,
     "descriptions": [
-        "Paul Edgecomb se vrací ve vzpomínkách do roku 1935, kdy byl zaměstnán v louisianské věznici jako hlavní dozorce. Tenkrát se tam setkal s výjimečným, byť duchem prostým mužem, který byl obdařen nejen velkým srdcem, ale také nadpozemskými schopnostmi. Byl to John Coffey, neprávem odsouzený na smrt za vraždu dvou malých holčiček. V té době trpěl Paul těžkým zánětem močového měchýře a také neměl šanci zbavit se sadistického, všemi nenáviděného dozorce Percyho. Jednoho dne chce s Paulem mluvit Coffey. Když se k němu přiblíží, chytí ho rukou v rozkroku, pak šokovaného Paula pustí a on uvidí, jak černoch vypustil z úst černý oblak, a současně si uvědomí, že jeho bolestivý zánět zmizel. Coffey má zvláštní schopnost, díky které vyléčí ženu správce věznice, ke které ho tajně v noci převezou, dokonce oživí cvičenou myš jednoho vězně, kterou zabil zlomyslný Percy. John Coffey, kterého čeká smrt, přijímá svůj úděl odevzdaně a bez hořkosti.(TV Nova)"
+        "Předlohou k filmu Přelet nad kukaččím hnízdem byl režiséru Miloši Formanovi román Kena Keseyho, který ho psal při působení v „nemocnici pro veterány“. Snímek se stal největším mezinárodním úspěchem ve Formanově kariéře. V roce 1976 získal Oscara ve všech hlavních kategoriích – za nejlepší film, režii, mužský herecký výkon (Jack Nicholson), ženský herecký výkon (Louise Fletcherová) a scénář. Majitelem filmových a divadelních práv byl 13 let Kirk Douglas, který je postoupil svému synu Michaelovi a tím z něho udělal úspěšného producenta... Zrzavý irský rváč a profesionální karbaník Randle Patrick McMurphy si odpykává trest za opakované násilné napadení a sexuální zneužití. Místo aby se držel v pracovním táboře, hraje pomateného a nechá se poslat do zdánlivého klidu psychiatrické léčebny. Jeho životní elán a silná osobnost se v ústavu brzy střetávají s absolutismem vrchní sestry Ratchedové, která s pomocí trojice lapiduchů tyransky vládne celému ústavu. McMurphy nesnese pohled na ušlápnuté pacienty a brzy v nich probouzí poslední špetku hrdosti a radosti ze života. V zápasu s Velkou sestrou obrátí blázinec doslova vzhůru nohama. Stěny ústavu se otřásají jeho hřmotným smíchem a nespoutaným elánem. Vzpoura McMurphyho ale nemá velkou naději proti síle mašinérie zosobněné Velkou sestrou… Brilantní románová satira Kena Keseyho, mísící v sobě komiku i tragiku, přerůstá v neobyčejně působivém filmovém zpracování v silný protest proti neomezené moci a omezování každého člověka.(Česká televize)",
+        "Do psychiatrické léčebny přichází nový pacient. Randall Patrick McMurphy byl na léčení poslán soudem. On sám si z toho hlavu moc nedělá, protože se tím může vyhnout pracovní farmě. Brzy však začíná zjišťovat, že se nejedná o hotel, ale o léčebný ústav, který má daná přesná pravidla. Nad jejich přísným dodržováním má bdít vrchní sestra Ratchedová. Ona a Randall spolu začínají vést malou válku o to, kdo oddělení ovládne. Počáteční obdiv a respekt ostatních pacientů se postupně začíná rozplývat, protože sestra Ratchedová má hodně přesvědčivé metody a Randall si brzy uvědomí, že na rozdíl od vězení může zůstat v ústavu navždy. Je třeba začít hrát novou hru.(Isherwood)"
+    ],
+    "genres": [
+        "Drama"
+    ],
+    "type": "film",
+    "url": "https://www.csfd.cz/film/2982/prehled/",
+    "origins": [
+        "USA"
+    ],
+    "colorRating": "good",
+    "rating": 92,
+    "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/002/2831_9fc5c9.jpg"
+},
+{
+    "id": 8653,
+    "title": "Schindlerův seznam",
+    "year": 1993,
+    "duration": 195,
+    "descriptions": [
+        "Hluboce šokující, nemilosrdné drama o noční můře holocaustu, založené na skutečných událostech. Na záchranu 1100 životů obětoval Oskar Schindler veškeré své jmění... Polský Krakov 1939. Židovská obec je vystavována stále se zvyšujícímu tlaku ze strany nacistů. Do této vřavy vstupuje obchodník Oskar Schindler, člen Nacistické strany, velký svůdník a muže vydělávající na válečném utrpení, který dokázal najít v sobě člověka a zachránit ty, kterým už zdánlivě nebylo pomoci... Film Stevena Spielberga je stěžejní dílo světové kinematografie a vítěz sedmi Oscarů, včetně ocenění za Nejlepší film roku a Nejlepší režii.(Lucernafilm)",
+        "Je konec roku 1939 a do Krakova přijíždí Oskar Schindler (Liam Neeson), člen nacistické strany a neúspěšný průmyslník, který si dělá zálusk na rychlé zbohatnutí v podobě továrny na smaltované nádobí. Tu umisťuje na kraj nově vzniklého krakovského ghetta. Chce v ní zaměstnávat Židy. S jejich hledáním mu pomáhá bývalý účetní Itzhak Stern (Ben Kingsley), který se snaží \"dohazovat\" práci v nové továrně co možná největšímu počtu lidí. Podnik prosperuje a Schindler začíná slušně vydělávat. Novým správcem ghetta se stává Aman Goeth (Ralph Fiennes), který má odpor nejen vůči Židům, ale i vůči životu jako takovému. Ke konci války se správa Třetí říše rozhodla přesunout všechny krakovské Židy do Osvětimi. Schindler chce za každou cenu jejich deportaci zabránit a usiluje o vykoupení svých zaměstnanců pro novou továrnu na granáty v československém Brněnci u Svitav. Goeth však o tom nechce ani slyšet, protože si myslí, že Schindler chce Židy chránit.",
+        "Film podle skutečných událostí, které do své knihy sepsal Thomas Keneally natočil slavný režisér židovského původu Steven Spielberg, který za film dostal svého prvního režijního Oscara své kariéry. Splnil tím \"povinnost\" vůči ostatním Židům a sám za tržby filmu nevzal do vlastní kapsy ani dolar.(Isherwood)"
     ],
     "genres": [
         "Drama",
-        "Mysteriózní",
-        "Krimi"
+        "Historický",
+        "Životopisný"
     ],
     "type": "film",
-    "url": "https://www.csfd.cz/film/2292/prehled/",
+    "url": "https://www.csfd.cz/film/8653/prehled/",
     "origins": [
         "USA"
     ],
     "colorRating": "good",
-    "rating": 93,
-    "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/079/79050_b712c4.jpg"
+    "rating": 92,
+    "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/163/153/163153410_9a7943.png"
+},
+{
+    "id": 1644,
+    "title": "Kmotr",
+    "year": 1972,
+    "duration": 175,
+    "descriptions": [
+        "Gangsterské drama Kmotr, natočené podle stejnojmenného bestselleru Maria Puza, patří mezi přelomová díla tzv. Nového Hollywoodu, a to jak komerčně, tak umělecky. Příběh newyorské mafiánské rodiny Corleonů, jíž tvrdou rukou šéfuje starý don Vito (Marlon Brando), se odehrává v letech 1945 - 55 a zaznamenává prudký rozmach organizovaného zločinu po skončení druhé světové války. V epických, rozmáchlých obrazech před divákem ožívají osudy italsko-americké rodiny, jež svůj blahobyt založila na hazardu, prostituci, vydírání a zastrašování. Tehdy mladý režisér Francis Ford Coppola, který byl poněkud překvapivě pověřen společností Paramount realizací jednoho z jejích stěžejních projektů (své nepochybně sehrálo i jeho italsko-americké zázemí), musel redukovat některé motivy rozsáhlé předlohy, ovšem podařilo se mu věrně zachovat jejího ducha - přesný popis fungování zločinecké organizace, zachycení její hierarchie, začlenění do tehdejšího společenského vývoje i často kritizované zdůrazňování rodinné soudržnosti. Pevnou dramatickou stavbu scénáře (na němž Coppola spolupracoval s autorem předlohy) podpořilo i režijní ztvárnění, jež čerpalo především z klasických vypravěčských praktik hollywoodských děl 30. let (např. Jih proti Severu), okořeněných soudobým příklonem k realismu, zejména v zobrazování násilí a sexu. Snímek získal tři Oscary - za nejlepší film, scénář podle předlohy a mužský herecký výkon v hlavní roli (Marlon Brando, který svou cenu odmítl převzít). Pro úspěch filmu, který se stal diváckým hitem nejen ve Spojených státech, ale i ve zbytku světa (kromě např. tehdejšího Československa, kde se kvůli údajné glorifikaci zločinu a násilí nesměl promítat, ač Puzova kniha v českém překladu vyšla), bylo klíčové herecké obsazení hlavních úloh dona Vita Corleona a jeho nejmladšího syna Michaela. Vedení Paramountu nesouhlasilo s Marlonem Brandem, na němž mu vedle jeho dobře známé pověsti \"obtížného a nespolehlivého herce, jehož poslední filmy byly propadáky\", vadilo hlavně to, že je na roli mafiánského patriarchy příliš mladý (v době příprav filmu mu bylo 47 let), a ještě větší odpor dávalo najevo vůči Al Pacinovi, jenž se jim zdál málo známý, příliš obyčejný a především malý. Coppola s oběma herci natočil testy, jež nakonec šéfy Paramountu přesvědčily. Se stejnou pečlivostí režisér obsadil i další role, nejstaršího Corleonova syna, prchlivého Sonnyho (James Caan), jeho slabošského bratra Freda (John Cazale) a conseglieriho Toma Hagena (Robert Duvall). Úlohy Corleonových \"vojáků\" a dalších gangsterů ztělesnili vesměs málo známí představitelé, kteří dokonale typově odpovídali svým postavám (např. Richard Castellano jako Clemenza nebo Al Lettieri jako Sollozzo). V kreaci Michaelovy neitalské dívky Kay Adamsové zaujala budoucí múza Woodyho Allena Diane Keatonová a Corleonovu týranou dceru Connii ztělesnila pozdější Stalloneova partnerka z Rockyho, Coppolova mladší sestra Talia Shireová. Téměř tříhodinový snímek (který uvádíme, stejně jako další díly trilogie, ve dvou částech) vrcholí slavnou scénou křtu Michaelova synovce (představovaného Coppolovou dcerou Sofií), prostříhaného krvavým vyřizováním účtů s ostatními mafiánskými rodinami, jež znamenalo upevnění moci Corleonova klanu, ale také definitivní převzetí \"rodinné firmy\" zprvu zdráhavým Michaelem, který se stává důstojným nástupcem zemřelého otce.(Česká televize)"
+    ],
+    "genres": [
+        "Drama",
+        "Krimi"
+    ],
+    "type": "film",
+    "url": "https://www.csfd.cz/film/1644/prehled/",
+    "origins": [
+        "USA"
+    ],
+    "colorRating": "good",
+    "rating": 92,
+    "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/162/362/162362236_a2f3bc.jpg"
+},
+{
+    "id": 6178,
+    "title": "Dvanáct rozhněvaných mužů",
+    "year": 1957,
+    "duration": 96,
+    "descriptions": [
+        "Dvanáct porotců má jednomyslně rozhodnout o vině či nevině mladého muže, který je obviněn z vraždy svého otce. Porotci jsou průměrní Američané s obyčejnými zájmy a zaměstnáním. V průběžném hlasování jedenáct hlasuje za vinu, jenom porotce číslo 8 je proti...(Magic Box)"
+    ],
+    "genres": [
+        "Drama",
+        "Krimi"
+    ],
+    "type": "film",
+    "url": "https://www.csfd.cz/film/6178/prehled/",
+    "origins": [
+        "USA"
+    ],
+    "colorRating": "good",
+    "rating": 91,
+    "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/160/422/160422509_e42e9b.jpg"
+},
+{
+    "id": 306731,
+    "title": "Nedotknutelní",
+    "year": 2011,
+    "duration": 112,
+    "descriptions": [
+        "Ochrnutý a bohatý aristokrat Philippe si za svého nového opatrovníka vybere Drisse, živelného mladíka z předměstí, kterého právě propustili z vězení. Jinými slovy - najde si na tuto práci tu nejméně vhodnou osobu. Podaří se jim však propojit nemožné: Vivaldiho a populární hudbu, serióznost a žoviální vtípky, luxusní obleky a tepláky. Bláznivým, zábavným, silným, neočekávaným a hlavně „nedotknutelným“, přesně takovým se stane jejich přátelství… Komedie s dramatickou zápletkou o tom, že ani od krku po prsty u nohou nepohyblivý člověk odkázaný na pomoc druhých, nemusí ztratit smysl života. A o tom, že i nejméně pravděpodobné spojení melancholického multimilionáře a extrovertního recidivisty může humorně zapůsobit na diváka a může se z něj stát kasovní trhák.(oficiální text distributora)",
+        "Philippe je bohatý aristokrat, jenž po těžké nehodě zůstal ochrnutý na celém těle. Driss je mladík z předměstí Paříže, který se právě vrátil z vězení. Při konkurzu na místo domácího pomocníka a ošetřovale se Drissovi podaří Philippa zaujmout natolik, že jej zaměstná. Dochází tak ke střetu dvou odlišných světů, který vytvoří základ pro vznik neobyčejného přátelství.(claudel)"
+    ],
+    "genres": [
+        "Komedie",
+        "Drama",
+        "Životopisný"
+    ],
+    "type": "film",
+    "url": "https://www.csfd.cz/film/306731/prehled/",
+    "origins": [
+        "Francie"
+    ],
+    "colorRating": "good",
+    "rating": 91,
+    "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/501/501780_540187.png"
+},
+{
+    "id": 4570,
+    "title": "Pelíšky",
+    "year": 1999,
+    "duration": 116,
+    "descriptions": [
+        "A je tu zpět jedna z nejúspěšnějších českých filmových komedií od renomovaných tvůrců - režiséra J. Hřebejka a scenáristy P. Jarchovského s řadou skvělých herců. Vraťme se tedy s oblíbenými postavami k rodinným rituálům, láskám a trapasům odehrávajícím se na sklonku šedesátých let minulého století v jedné pražské čtvrti. Jemná poetika a humorná nadsázka jsou charakteristické pro vyprávění životních osudů tří generací mužů a žen ve zvláštním období našich dějin v roce 1968… V jedné dvoupatrové vile tu žijí dvě rodiny - Šebkovi a Krausovi. Otec Šebek (M. Donutil), prostoduchý, ale dobrácký důstojník z povolání, je zastáncem panujícího režimu a stejně vehementně obhajuje i vlastní neomylnost v roli hlavy rodiny. Elegantní otec Kraus (J. Kodet), bývalý odbojář s trpkou válečnou zkušeností, je naopak zarytým opozičníkem. Také on je přesvědčený o tom, že má za všech okolností pravdu - není proto divu, že se tihle dva nemají zrovna v lásce. Jejich děti - gymnazista Michal (M. Beran) a jeho spolužačka Jindřiška (K. Nováková) - spolu vycházejí docela dobře. I když Michal by byl rád, kdyby ho jeho sousedka brala trochu víc na vědomí. Ta má ale oči pro jiného. Nezbývá mu tedy nic jiného, než aby smutně přihlížel, jak mu jeho první milostné body krade spolužák Elien (O. Brousek). U Šebků a Krausů se zatím střídají rodinné návštěvy, ve vší obřadnosti se tu slaví Vánoce, svatba i nečekaný, bolestný pohřeb. Do zabydlených domácností vtrhnou i některé novodobé vymoženosti v podobě umělohmotných lžiček, nerozbitných sklenic i podivných her pro statečné pionýry. Mládež zatím pokukuje po lákadlech světa kapitalismu a snaží se žít svůj vlastní, na rodičovských autoritách a \"velké\" historii nezávislý život. V soukromí rodinných pelíšků se tak čas od času odehrají malá dramata názorů a vztahů, která se v paměti jejich účastníků otisknou už nejspíš navždy…(Česká televize)"
+    ],
+    "genres": [
+        "Komedie",
+        "Drama"
+    ],
+    "type": "film",
+    "url": "https://www.csfd.cz/film/4570/prehled/",
+    "origins": [
+        "Česko"
+    ],
+    "colorRating": "good",
+    "rating": 91,
+    "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/165/059/165059101_56d52a.jpg"
+},
+{
+    "id": 1248,
+    "title": "Terminátor 2: Den zúčtování",
+    "year": 1991,
+    "duration": 137,
+    "descriptions": [
+        "V budoucnosti probíhá válka lidí se stroji, které převzaly vládu nad světem. Jedinou nadějí pro lidstvo je charismatický vůdce Hnutí odporu John Connor. Protože se ho stroje obávají, vysílají do minulosti nový prototyp kyborga, který ho má zničit jako malého chlapce. Vzápětí za ním Hnutí odporu vyšle starý model terminátora, přeprogramovaného tak, aby mladého Johna chránil.(Bontonfilm)"
+    ],
+    "genres": [
+        "Akční",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "type": "film",
+    "url": "https://www.csfd.cz/film/1248/prehled/",
+    "origins": [
+        "USA",
+        "Francie"
+    ],
+    "colorRating": "good",
+    "rating": 91,
+    "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/162/030/162030421_a857c2.jpg"
+},
+{
+    "id": 4711,
+    "title": "Pán prstenů: Společenstvo Prstenu",
+    "year": 2001,
+    "duration": 172,
+    "descriptions": [
+        "V dávných dobách byl vykován kouzelný prsten, který vlastnil pán Mordoru Sauron. Jeho moc začal využívat k šíření zla, ale o prsten nakonec v boji přišel, a ten na dlouhá léta zmizel. Nakonec ho našel hobit Bilbo Pytlík, který díky němu přestal stárnout. Na naléhavou žádost čaroděje Gandalfa předá prsten synovci Frodovi. Ten se svými kamarády Samem, Smíškem a Pipinem odcházejí do Hůrky a Gandalf se vydává pro radu za svým učitelem, čarodějem Sarumanem. Ten se však přidal na stranu zla a zajme ho. S pomocí tajemného hraničáře, přezdívaného Chodec, Frodo a jeho kamarádi uniknou jen o vlásek devíti černým jezdcům, kteří vyrazili z Temné věže, aby prsten našli a přinesli svému pánovi Sauronovi. Do Roklinky je svolána velká porada lidí a elfů, která rozhodne, že prsten musí být zničen. To je možné pouze tam, kde byl prsten zrozen, v ohni Hory osudu. Odvážný Frodo se nabídne, že tam prsten odnese. Nebezpečí je však příliš veliké, a tak se mu, jako jeho ochránci, postaví po bok čaroděj Gandalf, trpaslík Gimli, elf Legolas, bojovník Boromir, hobiti Sam, Smíšek a Pipin a také Chodec. Zrodí se Společenstvo Prstenu, které se vydává na nebezpečnou cestu plnou nástrah a nebezpečí.(TV Nova)",
+        "Budoucnost civilizace spočívá v osudu Jednoho prstenu, který byl po staletí ztracen. Osud jej však umístil do rukou mladého Hobita jménem Frodo Pytlík, který zdědil Prsten. Když se Frodo stane nositelem prstenu, čeká ho skličující úkol – zničit prsten v ohni Hory Osudu, kde byl vytvořen.(G....)"
+    ],
+    "genres": [
+        "Fantasy",
+        "Dobrodružný",
+        "Akční"
+    ],
+    "type": "film",
+    "url": "https://www.csfd.cz/film/4711/prehled/",
+    "origins": [
+        "USA",
+        "Nový Zéland"
+    ],
+    "colorRating": "good",
+    "rating": 91,
+    "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/158/600/158600806_7b6c15.jpg"
+},
+{
+    "id": 8852,
+    "title": "Pulp Fiction: Historky z podsvětí",
+    "year": 1994,
+    "duration": 154,
+    "descriptions": [
+        "Nejkultovnější z kultovních filmů 90. let je autorskou Biblí Quentina Tarantina, který v tomto opusu definoval základní prvky své režisérské poetiky a vytvořil dílo rozněcující náročné kritiky na festivalu v Cannes, levicové a pravicové intelektuály i zedníky dopřávající si po těžké šichtě trochu oddychu. Pulp Fiction je multižánrovým opusem, který přetéká fetišistickými detaily a popkulturními odkazy a zároveň dokonale funguje jako svrchovaně napínavý film rozvržený do inovativní příběhové struktury. Chcete vidět homosexuální znásilnění sbližující dva nepřátele na život a na smrt?(AČFK)"
+    ],
+    "genres": [
+        "Krimi",
+        "Drama"
+    ],
+    "type": "film",
+    "url": "https://www.csfd.cz/film/8852/prehled/",
+    "origins": [
+        "USA"
+    ],
+    "colorRating": "good",
+    "rating": 91,
+    "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/158/336/158336635_61bc7c.jpg"
+},
+{
+    "id": 1645,
+    "title": "Kmotr II",
+    "year": 1974,
+    "duration": 202,
+    "descriptions": [
+        "Jsme větší než U. S. Steel. Al Pacino a Robert De Niro v hlavních rolích pokračování slavné mafiánské ságy, oceněné šesti Oscary... Mimořádný úspěch Kmotra (1972) ve světových kinech logicky vedl k okamžitým úvahám o natočení pokračování, k němuž koneckonců vybízel i relativně otevřený konec originálu. Coppola, který tímto snímkem získal v Hollywoodu nesmírný respekt, ovšem nejdřív svého vlivu využil k realizaci osobního projektu Rozhovor (vyznamenaného mj. Zlatou palmou na MFF v Cannes, ale komerčně neúspěšného). Scénář Kmotra II, jenž je znovu společným dílem autora původní předlohy a režiséra, rozvíjí dvě dějové linie. Další osudy nového kmotra Michaela Corleona (Al Pacino), ovládajícího své impérium z rozsáhlého sídla v nevadském Lake Tahoe. A začátky mladého Vita Corleona (Robert De Niro) v New Yorku 20. let, jež jsou obsaženy i v Puzově původní knize. Michael musí čelit nejen svým konkurentům z podsvětí, zejména Hymanu Rothovi (pozoruhodná kreace slavného hereckého pedagoga Lee Strasberga), který využívá informací zhrzeného Michaelova bratra Freda (John Cazale), ale také zvýšenému zájmu orgánů spravedlnosti, jež v průběhu druhé poloviny 50. let, kdy se Kmotr II odehrává, zintenzivnily svou kampaň proti organizovanému zločinu. Michael své obchodní zájmy uhájí, přes nedobrovolné opuštění hazardních aktivit na revoluční Kubě, ovšem cena je vysoká. Předčasně zestárlý, zahořklý kmotr je ještě nelítostnějším šéfem než jeho otec, ale rodinné vazby, tvořící páteř prvního filmu, zmizely. Michael zůstává osamocený. Bez bratra, kterého nechal zabít, i bez manželky, která od něho odešla... Kmotr II je stejně výjimečným dílem jako originál, na který navazuje. Mnozí dokonce tvrdí, že lepším. Coppola se tu jako režisér představuje ve špičkové formě, navíc posílené neotřesitelným postavením režisérské hvězdy. Už nemusel bojovat o výši rozpočtu jako v případě prvního filmu (který se z finančních důvodů měl původně odehrávat v současnosti), ani o herce, jež hodlal angažovat. Ve všem měl naprosto volnou ruku. Prozřetelným se ukázalo obsazení málo známého Roberta De Nira jako mladého Vita Corleona, jehož elektrizující herectví tu získává na přesvědčivosti také citlivým využitím sicilského dialektu, který v raných scénách nahrazuje angličtinu. Jeho osud v nové zemi, kam musel uprchnout ze sicilské vesničky, jež mu dala jméno, ostře kontrastuje s údělem jeho syna. Vito buduje svoji pozici prakticky z ničeho, dokáže využít každé příležitosti, neštítí se násilných prostředků, pokud je považuje za nutné a efektivní, ale základem je pro něho rodina. Pokračování Kmotra se stalo prvním \"sequelem\", který získal Cenu Akademie za nejlepší film. Nezůstalo ovšem u jediného Oscara. Kmotr II v tomto ohledu překonal originál celkem se šesti soškami; další cenu mu Akademie udělila za nejlepší režii (ta Coppolovi v prvním případě unikla ve prospěch Boba Fosseho za Kabaret), scénář, výpravu, hudbu (slavný italský skladatel Nino Rota, opominutý u prvního dílu kvůli zařazení již použitých motivů z jiného filmu, tady spolupracoval s režisérovým otcem Carminem Coppolou) a konečně za fenomenální De Nirův výkon ve vedlejší roli.(Česká televize)",
+        "Mladičký Vito Andolini (Oreste Baldini) jako jediný z rodiny ujde krutému osudu, který jeho rodičům připravil nelítostný sicilský kmotr Don Francesco Ciccio (Giuseppe Sillato). Podaří se mu utéci do Ameriky, kde může začít jeho pozvolná cesta, na jejímž konci bude všemocný a obávaný Vito Corleone (Robert De Niro)... O čtyři desítky let později třímá pevně ve svých rukou otěže obrovského impéria Vitův syn Don Michael Corleone (Al Pacino), jenž se pokouší rozšířit svoji moc i mimo americké území, brání se pokusu úřadů o zamezení jeho vlivu i podnikání a zároveň se nemilosrdně potýká se zrádci ve vlastních řadách... Dva příběhy v jednom. Šestioscarové pokračování Coppolovy mafiánské ságy. Minimálně stejně povedené, podle mnohých ještě lepší než \"originální\" KMOTR.(Pohrobek)"
+    ],
+    "genres": [
+        "Drama",
+        "Krimi"
+    ],
+    "type": "film",
+    "url": "https://www.csfd.cz/film/1645/prehled/",
+    "origins": [
+        "USA"
+    ],
+    "colorRating": "good",
+    "rating": 91,
+    "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/162/362/162362237_7577f9.jpg"
+},
+{
+    "id": 4712,
+    "title": "Pán prstenů: Návrat krále",
+    "year": 2003,
+    "duration": 201,
+    "descriptions": [
+        "Nadchází čas rozhodující bitvy o přežití Středozemě. Putování jednotlivých členů Společenstva prstenu se dostává do poslední a rozhodující fáze. Čaroděj Gandalf, elf Legolas a trpaslík Gimli spěchají s dědicem trůnu Aragornem na pomoc zemi Gondor, která odolává ohromnému Sauronovu vojsku. Hobiti Frodo a Sam se v doprovodu Gluma snaží dostat hluboko do země Mordor, kde musí v ohních Hory osudu zničit magický Prsten moci. Jedině tak bude síla mocného pána temnot Saurona zlomena. Podaří se jim naplnit poslání Společenstva a zachránit Středozem? A za jakou cenu?(Magic Box)"
+    ],
+    "genres": [
+        "Fantasy",
+        "Dobrodružný",
+        "Akční"
+    ],
+    "type": "film",
+    "url": "https://www.csfd.cz/film/4712/prehled/",
+    "origins": [
+        "USA",
+        "Nový Zéland"
+    ],
+    "colorRating": "good",
+    "rating": 91,
+    "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/158/600/158600814_9bc57f.jpg"
+},
+{
+    "id": 223734,
+    "title": "Temný rytíř",
+    "year": 2008,
+    "duration": 152,
+    "descriptions": [
+        "Další Batmanovo dobrodružství začíná. Jeho protivníkem je tentokrát záhadný psychopat Joker. Vítanou posilou by se Batmanovi mohl stát nový státní zástupce Harvey Dent, idealistický právník odhodlaný bojovat zejména proti mafiím ovládajícím podsvětí města. Dent chodí shodou okolností s Rachel, kterou Batman, alias milionář Bruce Wayne, také miluje. Čínský obchodník Lau, se kterým Wayne odmítne obchodovat, navrhne gothamským mafiánským skupinám pro jejich peníze bezpečný úkryt v Hongkongu, kam nesahá Dentova pravomoc. Do jednání nečekaně zasáhne Joker, který chce polovinu mafiánských peněz za likvidaci Batmana. Ti to odmítnou. Batman vzápětí Laua unese a dostane z něj jména mafiánů. Dent rozjede velkou akci, podaří se mu však dostat za mříže jen méně významné gangstery. Vzápětí Joker vyhlásí, že každý den zabije jednoho člověka, a bude to dělat tak dlouho, než Batman veřejně přizná svou identitu a nechá se zatknout...(TV Nova)",
+        "Nolanův TEMNÝ RYTÍŘ by měl začíná přesně tam, kde BATMAN ZAČÍNÁ skončil. Bruce Wayne (Christian Bale) v kostýmu netopýřího muže jde spolu s poručíkem Jamesem Gordonem (Gary Oldman) z Gothamské policie po gaunerovi známého převážně podle symbolu; hrací karty s žolíkem, kterou zanechává na místech činu. Vtipálek s prořízlou tváří (Heath Ledger) má v plánu Batmanovi dokázat, že slova Gotham a mír nikdy nebudou stát v jedné větě vedle sebe. Na uvolněné místo po bývalém králi gothamské mafie, Carminu Falconem usedá Sal Maroni (Eric Roberts) a přebírá vládu nad většinou gangů v Gothamu. Na scéně se rovněž objevuje nový státní návladní Harvey Dent (Aaron Eckhart), který by rozdanými kartami (i s žolíkem v balíčku) mohl pořádně zamíchat...(3DD!3)",
+        "V pokračovaní úspešného hitu Batman začína opäť spojili svoje sily výnimočný režisér Christopher Nolan a skvelý herec Christian Bale, ktorý sa vracia ako Batman/Bruce Wayne. V Temnom rytierovi Batman zvyšuje stávku v boji so zločinom. S pomocou poručíka Jima Gordona a štátneho žalobcu Harveyho Denta sa snaží zničiť posledné kriminálne živly v uliciach mesta. Toto spojenectvo spočiatku funguje efektívne, ale čoskoro všetci zistia, že to bola iba pasca a oni sa stali obeťami nevypočítateľného zločinca, ktorého všetci obyvatelia Gothamu poznajú ako Jokera. K hereckým esám z filmu Batman začína (Christian Bale, Gary Oldman, Michael Caine, Morgan Freeman) pribudli Aaron Eckhart, Maggie Gyllenhaal a vynikajúci Heath Ledger vo svojej poslednej roli šialeného klauna Jokera.(marek.stone)"
+    ],
+    "genres": [
+        "Akční",
+        "Drama",
+        "Krimi",
+        "Thriller"
+    ],
+    "type": "film",
+    "url": "https://www.csfd.cz/film/223734/prehled/",
+    "origins": [
+        "USA",
+        "Velká Británie"
+    ],
+    "colorRating": "good",
+    "rating": 90,
+    "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/071/71968_2c8b23.jpg"
+},
+{
+    "id": 2356,
+    "title": "Mlčení jehňátek",
+    "year": 1991,
+    "duration": 119,
+    "descriptions": [
+        "Mladá citlivá agentka FBI Clarice Steriling je přizvána ke spolupráci do týmu vyšetřujícího sérii vražd. Na pachatele ukazují jen velmi kruté následky jeho činů: Vrah přezdívaný \"Buffalo Bill\" stahuje vždycky své oběti z kůže a potom je hází do řeky. Clarice má za úkol vypracovat psychologický portrét pachatele. Její nadřízení ji proto vyšlou na \"konzultaci\" za jiným masovým vrahem, psychiatrem dr. Hannibalem Lecterem, který je vězněn za nejvyšších bezpečnostních opatření. Lecter, který zná ze své praxe vraha i jeho motivy a tuší jeho další postup, drží v rukou všechny nitky a přivádí mladou Clarice na správnou stopu...(TV Prima)"
+    ],
+    "genres": [
+        "Thriller",
+        "Krimi",
+        "Horor",
+        "Drama"
+    ],
+    "type": "film",
+    "url": "https://www.csfd.cz/film/2356/prehled/",
+    "origins": [
+        "USA"
+    ],
+    "colorRating": "good",
+    "rating": 91,
+    "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/164/654/164654903_dfa13e.jpg"
+},
+{
+    "id": 5911,
+    "title": "Tenkrát na Západě",
+    "year": 1968,
+    "duration": 166,
+    "descriptions": [
+        "V legendárním westernu Sergia Leoneho, který se částečně natáčel v Monument Valley, se z příběhu pomsty stává epické rozjímání o minulosti Divokého Západu. Aby získal půdu, na níž má vést hlavní tah, najme si chromý železniční baron Morton (Gabriele Ferzetti) zabijáky v čele se sadistickým Frankem s pomněnkovýma očima (Henry Fonda), který zavraždí majitele pozemku Bretta McBaina (Frank Wolff) i s celou jeho rodinou. Chvíli poté však nečekaně dorazí McBainova novomanželka Jill (Claudia Cardinaleová), která půdu zdědí. Desperát Čejen (Jason Robards) i tajemný psanec Harmonika (Charles Bronson) se rozhodnou vzít Jill pod svá ochranná křídla a zmařit tak Frankovy plány na získání jejího dědictví. Postupem času však vyjde najevo, že Harmonika chce Franka dostat z jiného důvodu... který má co dělat se smrtí.(Cinemax)",
+        "Jeden z nejslavnějších westernů. Krásná Jill (Claudia Cardinalová), bývalá prostitutka, si chce vzít ovdovělého farmáře a začít nový život. Když však přijede na farmu, zjistí, že její nová rodina je vyvražděna. Za tento hrůzný čin je zodpovědný stavitel železnice, který v nemilosrdném boji o pozemky, kudy má vést trať, poštve na farmáře zabijáka Franka (Henry Fonda) a jeho bandu. Jill se rozhodne pomstít a najme si psance Cheynneho (Jason Robards) a cizince (Charles Bronson).(woody)"
+    ],
+    "genres": [
+        "Western",
+        "Dobrodružný"
+    ],
+    "type": "film",
+    "url": "https://www.csfd.cz/film/5911/prehled/",
+    "origins": [
+        "Itálie",
+        "USA"
+    ],
+    "colorRating": "good",
+    "rating": 91,
+    "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/164/951/164951853_859053.jpg"
+},
+{
+    "id": 9499,
+    "title": "Matrix",
+    "year": 1999,
+    "duration": 136,
+    "descriptions": [
+        "Uvěříte neuvěřitelnému! Představte si, že vaše realita je jen iluzí a vaše nejtemnější noční můry jsou ve skutečnosti pravdivé. Představte si, že vaše současnost je vlastně minulostí a to budoucí se děje právě teď. Když si to dokážete představit, potom se budete cítit jako hrdina snímku Matrix Thomas Anderson (Keanu Reeves). A věřte, že to nebude příjemný pocit. Anderson je normální mladý muž, který se jen snaží přežít v každodenním shonu moderního velkoměsta. A má všechny předpoklady aby se mu to povedlo: dobré přátele, milující rodinu a perspektivní práci v multinárodní počítačové společnosti Meta Cortech. Jednoho dne, nebo lépe řečeno noci, se však do jeho spokojeného mozku zakousne strašlivá noční můra. Zdá se mu, že byl proti své vůli vložen v podobě dat do počítače a všechno to, co až dosud považoval za svůj osud, je jen vírem dat okolo několika tištěných spojů. Má pocit, že mu byla jeho mysl ukradena a uvězněna v obřím Matrix počítače budoucnosti. Začíná vážně pochybovat o své každodenní skutečnosti. Byl skutečně vhozen do stroje? Kdo je za to zodpovědný? Je tam s ním zavřeno i těch několik stovek lidí, které zná? Nebo jsou to jen projekce, které mají udržet zdání reality? A pak je tu otázka nejdůležitější: pokud je to všechno pravda, co se stane, až jeho věznitelé přijdou na to, že ji zná?(Warner Bros. CZ)",
+        "Život mladého počítačového experta s perspektívnou budúcnosťou, a zároveň obávaného hackera s prezývkou Neo, Thomasa Andersona, sa radikálne zmení vo chvíli, keď ho po niekoľných nočných morách kontaktuje záhadná Trinity. Ponúkne mu odpovede na otázky, ktoré ho už dlhší čas sužujú, no hlavne odpoveď, ktorá ho zaujíma asi najviac od chvíle, keď dostal záhadný e-mail: Čo je to Matrix? Rozhodne sa uveriť jej, a po poslednej možnosti voľby, ktorú mu ponúkne černoch Morpheus, sa prebúdza v skutočnom svete. S hrôzou zisťuje, že život, ktorý doteraz žil, bol len ilúzia. Že zďaleka nie je rok 1999, a že Matrix je obrovský software, na ktorý sú všetci ľudia napojený, a žijú si v ňom svoj vlastný \"život\" tak, ako doteraz žil aj on. V skutočnosti sú umiestnení v obrovskej elektrárni, ktorá týmto spôsobom prináša úžitok novodobým pánom sveta - strojom. A zisťuje aj to, že on je jediný, kto môže ľudstvo spod nadvlády strojov zachrániť. On je Vyvolený. Teda aspoň podľa proroctva. A tak nemá na výber - musí sa pridať k skupine rebelov, ktorý tejto vojne zasvätili celé svoje životy. Boj o budúcnosť sa môže začať...(oli.G)"
+    ],
+    "genres": [
+        "Akční",
+        "Sci-Fi"
+    ],
+    "type": "film",
+    "url": "https://www.csfd.cz/film/9499/prehled/",
+    "origins": [
+        "USA"
+    ],
+    "colorRating": "good",
+    "rating": 90,
+    "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg"
+},
+{
+    "id": 240479,
+    "title": "Gran Torino",
+    "year": 2008,
+    "duration": 116,
+    "descriptions": [
+        "Film Gran Torino vypráví příběh někdejšího opraváře aut a ovdovělého veterána z války v Koreji Walta Kowalského, který si s přibývajícími léty uvědomuje, že na nový svět už nestačí. Všichni jeho sousedé se buď odstěhovali, nebo zemřeli. Postupně je nahradili hmongští imigranti, kterými Walt ze srdce pohrdá, a bezcílné partičky mladých afroamerických a latinskoamerických výtržníků. Podzim svého života tak spíš přežívá než dožívá. Až do oné noci, kdy se mu někdo pokusí ukrást jeho chloubu - nablýskaný sporťák Gran Torino. Když se zlodějům postaví, stane se hrdinou, který změní život nejen svým sousedům a chlapci nucenému vstoupit do jednoho z místních gangů, ale především sám sobě.(HBO Europe)",
+        "Životom unavený vojnový veterán z Koreje Walt Kowalski (Clint Eastwood) pochová svoju manželku. Čím viac sa rozhliada okolo seba, pociťuje samotu a hnev nad svojou rodinou, ktorá by najradšej dedila, vidí drzé vnúčatá, ktoré si nič nevážia, neznáša miestneho farára, svojich vietnamských susedov a celý svet skazený dnešnou dobou. Zostala mu jediná láska Ford Gran Torino, ktoré sa mu pokúsi ukradnúť sused, \"násťročný\" vietnamec Thao Vang Lor (Bee Vang), pri snahe zapadnúť do miestneho gangu. Walt ani netuší že mu tento malý výtržník opäť vnáša svetlo do života a Thao získava mentora a ochrancu...(brutale)"
+    ],
+    "genres": [
+        "Drama"
+    ],
+    "type": "film",
+    "url": "https://www.csfd.cz/film/240479/prehled/",
+    "origins": [
+        "USA",
+        "Německo"
+    ],
+    "colorRating": "good",
+    "rating": 90,
+    "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/159/527/159527701_4021e5.jpg"
+},
+{
+    "id": 1194334,
+    "title": "Invalida",
+    "year": 2023,
+    "duration": 108,
+    "descriptions": [
+        "Divoké devadesátky. Šusťákové soupravy, pestrobarevná saka, velké kazeťáky, videopřehrávače, kýčovitá techno hudba, videopůjčovny na každém kroku, nové společenské poměry, záplava různých podvodníků, začínající organizovaný zločin. V této době a prostředí anonymního maloměsta se odehrává příběh Laca, na svou profesi hrdého údržbáře místního muzea, který se kvůli své výbušné povaze ocitá v nesprávném čase na nesprávném místě a po setkání s drsnými podvodníky skončí na vozíku. Když pak zjistí, že spravedlnost je nedosažitelnou utopií, rozhodne se vzít věci do vlastních údržbářských rukou. Začíná pomsta, jakou jste ještě neviděli. A poznáte přátelství, jaké by vás ani nenapadlo.(CinemArt)",
+        "Príbeh tichého údržbára Laca Hundera (Gregor Hološka) z nesmrteľných 90. rokov 20. storočia, ktorý sám sebe nastaví zrkadlo. Jedného dňa sa stane obeťou podvodu, po ktorom navyše zostane trvalo invalidom na vozíčku. Musí sa spoliehať na pomoc zvonku, lebo ináč si neporadí. Denne naráža na cigánov, ktorých dovtedy nenávidel. Verí však, že sa dovolá spravodlivosti, no skoro z toho vytriezvie. Preto sa rozhodne zobrať právo do vlastných rúk. Začína sa pomsta, ktorá do jeho života prinesie nejeden paradox.(Biopler)"
+    ],
+    "genres": [
+        "Komedie"
+    ],
+    "type": "film",
+    "url": "https://www.csfd.cz/film/1194334/prehled/",
+    "origins": [
+        "Slovensko"
+    ],
+    "colorRating": "good",
+    "rating": 78,
+    "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/167/197/167197401_cb003b.jpg"
 }
 ]

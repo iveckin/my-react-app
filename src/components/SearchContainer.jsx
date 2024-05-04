@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import { Link } from 'react-router-dom'; // Import Link from React Router
-import '../css/SearchContainer.css'; // Import the CSS file
-import moviesData from './movies.json'; // Import the JSON file
+import { Link } from 'react-router-dom';
+import '../css/SearchContainer.css';
+import moviesData from './movies.json';
 
 const SearchContainer = ({ onSearch }) => {
   const [searchQuery, setSearchQuery] = useState('');
@@ -10,7 +10,7 @@ const SearchContainer = ({ onSearch }) => {
   const handleInputChange = (event) => {
     const query = event.target.value.toLowerCase();
     setSearchQuery(query);
-    
+
     if (query === '') {
       setSearchResults([]);
     } else {
@@ -28,7 +28,7 @@ const SearchContainer = ({ onSearch }) => {
   return (
     <div className="search-container-wrapper">
       <h1><span>kukni</span>.si</h1>
-      <h2>Čo si chceš pozrieť dnes?</h2>
+      <p>Čo si pozrieš dnes?</p>
       <div className="search-container">
         <input
           type="text"
@@ -37,20 +37,21 @@ const SearchContainer = ({ onSearch }) => {
           value={searchQuery}
           onChange={handleInputChange}
         />
-      </div>
-      <div className="search-results">
-        {searchResults.map((item) => (
-          <Link key={item.id} to={`/movies/${item.id}`} className="search-result-item">
-            <div className="search-result-item-content">
-              <img src={item.poster} alt={item.title} />
-              <div>
-                <h3>{item.title}</h3>
-                <p>{item.year}</p>
-                <p>{item.duration} minutes</p>
+        <div className="search-results">
+          {searchResults.map((item) => (
+            <Link key={item.id} to={`/movies/${item.id}`} className='search-result-item'>
+              <div className={`search-result-item-content ${item.colorRating === "good" ? 'glow-red' : 'glow-blue'}`}>
+                <img src={item.poster} alt={item.title} />
+                <div className='item-description'>
+                  <h3>{item.title}</h3>
+                  <span className={`movie-rating ${item.colorRating === "good" ? 'rating-red' : 'rating-blue'}`}>{item.rating}</span>
+                  <p>{item.year}</p>
+                  <p>{item.duration} minutes</p>
+                </div>
               </div>
-            </div>
-          </Link>
-        ))}
+            </Link>
+          ))}
+        </div>
       </div>
     </div>
   );

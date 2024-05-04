@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
 import movieData from './movies.json'; // Import the JSON file
+import '../css/MovieDetail.css'
+
 
 function MovieDetail() {
   const { id } = useParams();
@@ -18,12 +20,19 @@ function MovieDetail() {
   }
 
   return (
-    <div>
-      <h2>{movie.title}</h2>
-      <img src={movie.poster} alt={movie.title} />
-      <p>{movie.descriptions[0]}</p>
-      {/* Display other movie information as needed */}
+    <div className="movie-container">
+      <div className="stream-container"></div>
+      <div className="movie-info">
+        <img className="movie-poster" src={movie.poster} alt={movie.title} />
+        <h2 className="movie-title">{movie.title}</h2>
+        <p className='movie-description'>
+          {movie.genres.join(', ')}<br/><br/>
+          {movie.year}<br/><br/>
+          {movie.descriptions[0]}
+        </p>
+      </div>
     </div>
+
   );
 }
 

@@ -1,0 +1,37 @@
+.movie-container {
+    
+}
+
+.stream-container {
+    background-color: white;
+    height: 100vh;
+    text-align: center;
+
+}
+
+.movie-poster {
+    max-width: 30%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    padding-top: 10%;
+    border-radius: 5px;
+}
+
+.movie-info {
+    width: 50%;
+    background-color: rgb(0, 0, 0);
+    color: white; /* Adjust text color */
+    margin-left: 25%;
+    background-color:gray;
+
+}
+
+.movie-title {
+ 
+}
+
+.movie-description {
+    font-size: 16px;
+    padding:0 5%;
+}
