@@ -102,3 +102,7 @@ button:hover {
 .active-filter {
   color: yellow; /* Adjust the color if needed */
 }
+
+.fa-filter {
+  offset-position: right 100px;
+}

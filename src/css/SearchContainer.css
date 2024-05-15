@@ -4,8 +4,10 @@
   background-size: cover;
   height: 40vh;
   text-align: center;
+  z-index: 0;
 
 }
+
 
 h1,p {
   font-family: 'Poppins';
@@ -42,6 +44,7 @@ h1 {
   left: 0%;
   right: 0%;
   z-index: 1;
+  border-radius: 10px;
 }
 
 
@@ -53,7 +56,7 @@ h1 {
   padding: 8px; /* Add padding for better spacing */
   font-size: 16px; /* Adjust font size for better readability */
   outline: none; /* Remove the default focus outline */
-  background-color: rgb(44, 44, 44);
+  background-color: rgb(30, 30, 30);
   color: white;
   
 }
@@ -69,7 +72,7 @@ img {
   flex-direction: row;
   align-items: center;
   border: 2px solid transparent;
-  border-radius: 10px;
+  position: relative;
 }
 
 .search-result-item-content.glow-blue {
@@ -87,7 +90,6 @@ img {
   color: white;
   font-size: 10px;
   text-align: left;
-
 }
 
 h3 {
@@ -98,5 +100,13 @@ h3 {
 .search-result-item-content div {
   margin-left: 10px; /* Adjust spacing between image and text */
  
+}
+
+.csfd-rating {
+  position: absolute;
+  right: 0%;
+  top:0%;
+  color: #fff;
+  padding: 5px 10px;
 }
 

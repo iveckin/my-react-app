@@ -21,7 +21,17 @@ function MovieDetail() {
 
   return (
     <div className="movie-container">
-      <div className="stream-container"></div>
+      <div className="stream-container">
+      <iframe
+        width="720"
+        height="480"
+        src={movie.stream_url}
+        title="YouTube video player"
+        frameBorder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowFullScreen
+      ></iframe>
+      </div>
       <div className="movie-info">
         <img className="movie-poster" src={movie.poster} alt={movie.title} />
         <h2 className="movie-title">{movie.title}</h2>

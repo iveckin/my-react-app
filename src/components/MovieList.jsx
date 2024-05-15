@@ -38,12 +38,15 @@ function MovieList() {
       <button onClick={() => filterMovies('newest')} className={filterType === 'newest' ? 'active-filter' : ''}><h3>Najnovšie Pridané</h3></button>
       <button onClick={() => filterMovies('popular')} className={filterType === 'popular' ? 'active-filter' : ''}><h3>Najpopulárnejšie</h3></button>
       <button onClick={() => filterMovies('bestRated')} className={filterType === 'bestRated' ? 'active-filter' : ''}><h3>Najlepšie Hodnotené</h3></button>
-
+      
+      <i class="fa-solid fa-filter"> </i>
+      <i class="fa-solid fa-caret-down"> </i>
+      
       <ul className="movie-list">
         {currentMovies.map(movie => (
           <li key={movie.id} className={`movie-list-item ${movie.colorRating === "good" ? 'glow-red' : 'glow-blue'}`}>
             <div className="movie-image-container">
-              <span className={`movie-rating ${movie.colorRating === "good" ? 'rating-red' : 'rating-blue'}`}>{movie.rating}</span>
+              <span className={`movie-rating ${movie.colorRating === "good" ? 'rating-red' : 'rating-blue'}`}>{'👍 ' + movie.rating}</span>
               <Link to={`/movies/${movie.id}`}>
                 <img src={movie.poster} alt={movie.title} className="movie-image" />
               </Link>

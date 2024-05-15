@@ -17,7 +17,7 @@ const SearchContainer = ({ onSearch }) => {
       const filteredData = moviesData.filter((item) =>
         item.title.toLowerCase().includes(query)
       );
-      setSearchResults(filteredData);
+      setSearchResults(filteredData.slice(0, 3));
     }
   };
 
@@ -42,9 +42,10 @@ const SearchContainer = ({ onSearch }) => {
             <Link key={item.id} to={`/movies/${item.id}`} className='search-result-item'>
               <div className={`search-result-item-content ${item.colorRating === "good" ? 'glow-red' : 'glow-blue'}`}>
                 <img src={item.poster} alt={item.title} />
+                <span className={`csfd-rating ${item.colorRating === "good" ? 'rating-red' : 'rating-blue'}`}>{'👍 ' + item.rating}</span>
                 <div className='item-description'>
                   <h3>{item.title}</h3>
-                  <span className={`movie-rating ${item.colorRating === "good" ? 'rating-red' : 'rating-blue'}`}>{item.rating}</span>
+
                   <p>{item.year}</p>
                   <p>{item.duration} minutes</p>
                 </div>

@@ -1,25 +1,74 @@
-/* Header.css */
-
 /* Header container */
 .header-wrapper {
   background-color: black;
   padding: 10px 0;
   position: sticky;
-  top:0;
+  top: 0;
+  z-index: 1000; /* Make sure header is above other content */
 }
 
-/* Navigation list */
-.nav ul {
+/* General navigation styling */
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+/* Dropdown boxes */
+.search-box, .login-box {
+  position: absolute;
+  right: 0px;  /* Align to the right under the icons */
+  top: 45px;    /* Offset below the nav bar */
+  background: rgb(0, 0, 0);
+  padding: 10px;
+  width: 250px; /* Fixed width */
+}
+
+.search-box input, .login-box input {
+  width: 90%;
+  padding: 8px;
+  margin-bottom: 10px;
+  background-color: rgb(30,30,30);
+  border-radius: 10px;
+  border: 1px white solid;
+}
+
+.login-box button {
+  width: 80%;
+  padding: 0px;
+  background-color: rgb(30,30,30);
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 10px;
+  width: 50px;
+  
+}
+
+/* Navigation lists - ensure full space usage and center alignment */
+.nav-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 auto; /* centers nav-list in the available space */
+  display: flex;
+  justify-content: center; /* centers the links horizontally */
+  flex-grow: 1; /* allows the list to grow and use up space for centering */
+}
+
+/* Navigation icons - added justify-content to right-align icons */
+.nav-icons {
   list-style: none;
   padding: 0;
   margin: 0;
   display: flex;
-  justify-content: center;
+  justify-content: flex-end; /* aligns icons to the right */
 }
 
 /* Navigation items */
 .nav li {
   margin: 0 10px;
+  cursor: pointer;
 }
 
 /* Navigation links */
@@ -32,9 +81,14 @@
   transition: background-color 0.3s ease;
 }
 
-/* Hover effect for navigation links */
-.nav a:hover {
-  color:yellow;
+.nav i {
+  color: #fff;
+  padding: 5px;
+}
+
+/* Hover effect for navigation links and icons */
+.nav a:hover, .nav i:hover { 
+  color: yellow;
 }
 
 /* Active link styling */

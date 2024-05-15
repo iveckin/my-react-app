@@ -1,5 +1,6 @@
 [
 {
+    "stream_url": "https://www.youtube.com/embed/2p5pdWyyZoc",
     "id": 535121,
     "title": "Na špatné straně",
     "year": 2018,
@@ -826,5 +827,52 @@
     "colorRating": "good",
     "rating": 78,
     "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/167/197/167197401_cb003b.jpg"
+},
+{
+    "id": 321913,
+    "title": "Amazing Spider-Man 2",
+    "year": 2014,
+    "duration": 142,
+    "descriptions": [
+        "Být Spider-Manem (Andrew Garfield) je skvělé. Peter Parker nezná úžasnější pocit než se prohánět mezi mrakodrapy, být skutečným hrdinou a trávit čas s Gwen (Emma Stone). Být Spider-Manem ale má také svou cenu: jedině Spider-Man je schopen ochránit ostatní Newyorčany před pozoruhodnými padouchy, kteří město ohrožují. Když se na scéně objevuje Electro (Jamie Foxx), je Peter nucen čelit nepříteli, který je mnohem silnější než on sám. A když se vrací i jeho starý přítel Harry Osborn (Dane DeHaan), uvědomuje si Peter, že všechny jeho nepřátele něco spojuje: společnost OsCorp.(Falcon)",
+        "Peter Parker, známý také jako hrdina Spider-Man se vrací do New Yorku, a s ním přicházejí nová dobrodružství, a také bohužel i noví nepřátelé. Zatímco jako pubertální student řeší běžné mládežnické záležitosti spolu se svou přítelkyní Gwen Stacyovou, tak jako hrdinský pavouk také chrání svoje město před zločinem, a také se pořád snaží vyřešit záhadu ohledně zmizení svých rodičů.Bohužel se ale Spider-Man, aniž by to ještě tušil, musí připravit na nadcházející hrozbu a možná také i největší bitvu, která ho bude čekat. Spolu s návratem jeho nejlepšího přítele z dětství Harrym Osbornem přichází na scénu i nebezpečné trio smrtonosných padouchů: Electro, Green Goblin a Rhino. Vše se značně zkomplikuje, když Spider-Man zjistí, že nové nepřátele a smrt jeho rodičů spojuje jedna věc: OsCorp.(Shadowspark)"
+    ],
+    "genres": [
+        "Akční",
+        "Dobrodružný",
+        "Fantasy"
+    ],
+    "type": "film",
+    "url": "https://www.csfd.cz/film/321913/prehled/",
+    "origins": [
+        "USA"
+    ],
+    "colorRating": "average",
+    "rating": 62,
+    "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/158/386/158386973_d0d5a9.jpg"
+},
+{
+    "id": 294824,
+    "title": "Nespoutaný Django",
+    "year": 2012,
+    "duration": 165,
+    "descriptions": [
+        "Píše se rok 1858 a v Americe právě probíhá občanská válka. Texasem vedou bratři Ace a Dicky Speckovi pěšky skupinu spoutaných černých otroků a mezi nimi je i hlavní hrdina otrok Django. Ten má šanci získat díky nájemnému lovci lidí dr. Schultzovi svobodu, pokud se mu povede dopadnout vraždící bratry Brittlovi. Djangovi se tak zároveň naskytne příležitost najít ženu, kterou musel před lety nedobrovolně opustit. Ani jeden z hlavních hrdinů však netuší, jak blízko jsou nejnebezpečnějšímu dobrodružství svého života...(TV Nova)",
+        "Django v podání Jamieho Foxxe je osvobozený otrok, který nabídne pomoc německému lovci odměn. Na oplátku za jeho pomoc mu lovec odměn pomůže pomstít se krutému majiteli plantáže Calvinovi Candiemu (Leonardo DiCaprio), který znásilnil jeho ženu a usiluje o to, aby byl Django opět v řetězech.(Kritiq)",
+        "Děj se odehrává na jihu Spojených států dva roky před vypuknutím Občanské války. Otroka Djanga (Jamie Foxx) přivede krutá zkušenost s jeho bývalými vlastníky až k nájemnému lovci lidí německého původu Kingu Schultzovi (Christoph Waltz). Ten je na stopě vraždících bratrů Brittlových a jen Django ho může dovést k jeho odměně. Nekonvenční Schultz dá Djangovi slib, že ho osvobodí a poté bratry dopadne mrtvé nebo živé. Díky úspěšnému dopadení Schultz Djanga osvobodí, přesto se oba muži rozhodnou jít i nadále společnou cestou. Společně pronásledují nejhledanější kriminálníky na jihu. Django, který si tříbí životně důležité lovecké schopnosti, se zaměří na jediný cíl - najít a zachránit Broomhildu (Kerry Washington), kterou kvůli obchodu s otroky před lety ztratil. Djanga a Schultze jejich hledání nakonec dovede ke Calvinu Candiemu (Leonardo DiCaprio), vlastníkovi \"Candylandu\", neblaze proslulé plantáže, kde jsou otroci cvičeni, aby mezi sebou bojovali pro zábavu druhých. Pod falešnou záminkou prozkoumávají ohrazený pozemek a vzbudí tak podezření u Stephena (Samuel L. Jackson), věrného domácího otroka. Jejich pohyb je sledován a zrádná organizace kolem nich utahuje pomyslnou smyčku. Pokud chtějí Django a Schultz uniknout s Broomhildou, musí si vybrat mezi nezávislostí a solidaritou, mezi obětí a přežitím.(pan Hnědý)"
+    ],
+    "genres": [
+        "Western",
+        "Dobrodružný",
+        "Drama"
+    ],
+    "type": "film",
+    "url": "https://www.csfd.cz/film/294824/prehled/",
+    "origins": [
+        "USA"
+    ],
+    "colorRating": "good",
+    "rating": 88,
+    "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/158/573/158573265_654565.jpg"
 }
 ]
